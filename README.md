@@ -255,8 +255,4 @@ Entry point:
 if __name__ == "__main__":
     create_ui()
 ```
-
 ---
-
-* extract a formal RPN engine module,
-* or write developer documentation for extending operations or units.
